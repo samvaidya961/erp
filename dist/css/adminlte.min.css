@@ -54002,3 +54002,11 @@ a.text-muted:hover {
 .addbtnc i {
     margin-right: 10px;
 }
+
+/* show result */
+
+.showresultbtn {
+    font-size: 14px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
